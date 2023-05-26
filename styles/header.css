@@ -1,0 +1,24 @@
+.header {
+    padding: 45px;
+}
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 75px;
+}
+.header-nav-list {
+  display: flex;
+  gap: 20px;
+}
+.header-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.register {
+    padding: 15px 30px;
+    background: #1A75E8;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
